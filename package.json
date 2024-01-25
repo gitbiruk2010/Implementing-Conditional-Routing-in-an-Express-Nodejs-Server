@@ -1,0 +1,22 @@
+{
+  "name": "condrouting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gitbiruk2010/Implementing-Conditional-Routing-in-an-Express-Nodejs-Server.git"
+  },
+  "author": "biruk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitbiruk2010/Implementing-Conditional-Routing-in-an-Express-Nodejs-Server/issues"
+  },
+  "homepage": "https://github.com/gitbiruk2010/Implementing-Conditional-Routing-in-an-Express-Nodejs-Server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
