@@ -18,7 +18,7 @@ Start the server by running the following command:
 
 bash
 
-    node app.js
+    node test.js
 
     You will see a console log message confirming that the server has started on the specified port.
 
